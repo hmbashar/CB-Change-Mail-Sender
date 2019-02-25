@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=aJ6k_yD8cag
 
 #### Changelog
 
-= 1.0 =
+##### 1.0
 * Init Version
 
-= 1.2.1 =
-** Security Improved with translate support
+##### 1.2.1
+* Security Improved with translate support
