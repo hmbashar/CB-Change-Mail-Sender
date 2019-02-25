@@ -3,21 +3,27 @@ Contributors: hmbashar
 Donate link: http://donate.codingbank.com
 Tags: Change Mail Sender name, Change Mail Sender email, wordpress default mail sender change, change from email and name, change from wordpress email name.
 Requires at least: 3.0.1
-Tested up to: 5.0
-Stable tag: 1.2
+Stable tag: 1.2.1
+Tested up to: 5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Description ==
+
+You're Welcome to <a href="https://github.com/hmbashar/CB-Change-Mail-Sender">Github Repo</a> for features/pull request 
+
 Easy to change mail sender name and email from wordpress default name and email.
 
 
 
 Full <a href="http://www.codingbank.com/item/cb-change-mail-sender-wordpress-plugin/">Documentations</a>
 
-You can watch this video
-https://www.youtube.com/watch?v=aJ6k_yD8cag
+
+
+## You can watch this video
+https://youtu.be/aJ6k_yD8cag
+
 
 == Installation ==
 
@@ -44,4 +50,14 @@ Just install this plguin. and go to wp-admin panel, then check CB Mail Sender op
 
 1. screenshot-1 admin panel
 
-2. screenshot-2 received email
+1. screenshot-2 admin panel
+
+2. screenshot-3 received email
+
+== Changelog ==
+
+= 1.0 =
+* Init Version
+
+= 1.2.1 =
+** Security Improved with translate support
