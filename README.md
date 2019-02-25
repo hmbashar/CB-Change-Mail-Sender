@@ -9,10 +9,11 @@ You can watch this video
 https://www.youtube.com/watch?v=aJ6k_yD8cag
 
 ## screenshots
-![alt text](https://ps.w.org/cb-change-mail-sender/assets/screenshot-1.png?rev=1262115)
-![alt text](https://ps.w.org/cb-change-mail-sender/assets/screenshot-2.png?rev=1262174)
+![admin panel](https://raw.githubusercontent.com/hmbashar/CB-Change-Mail-Sender/master/screenshots/screenshot-1.png)
+![admin panel](https://raw.githubusercontent.com/hmbashar/CB-Change-Mail-Sender/master/screenshots/screenshot-2.png)
+![received email](https://raw.githubusercontent.com/hmbashar/CB-Change-Mail-Sender/master/screenshots/screenshot-3.png)
 
-== Screenshots ==
+#### Screenshots
 
 1. screenshot-1 admin panel
 
@@ -20,7 +21,7 @@ https://www.youtube.com/watch?v=aJ6k_yD8cag
 
 2. screenshot-3 received email
 
-== Changelog ==
+#### Changelog
 
 = 1.0 =
 * Init Version
