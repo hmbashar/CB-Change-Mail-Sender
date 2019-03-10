@@ -59,7 +59,7 @@ function cb_mail_sender_text() {
 
 
 function cb_mail_sender_menu() {
-	add_submenu_page('options-general.php', __('CB Mail Sender Options', 'cb-mail'), __('CB Mail Sender', 'cb-mail'), 'manage_options', 'cb_mail_sender', 'cb_mail_sender_output');
+	add_menu_page(__('CB Mail Sender Options', 'cb-mail'), __('CB Mail Sender', 'cb-mail'), 'manage_options', 'cb_mail_sender', 'cb_mail_sender_output', 'dashicons-email');
 
 
 }
