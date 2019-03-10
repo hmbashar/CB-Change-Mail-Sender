@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=aJ6k_yD8cag
 * Security Improved with translate support
 
 ##### 1.2.2
-* ** Setting Menu position restore
+* Setting Menu position restore
